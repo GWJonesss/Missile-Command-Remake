@@ -5,7 +5,7 @@ For My First Live Project While Attending The Tech Academy I Created A Missile C
 ## Missile Command Scenes and Game Objects
 First part of the project was creating the screens for Missile Command. Each were made within Unity, and movement between them was controlled by using buttons that had an attached script to load the correct scene. Along with the base scenes, Building Game Objects were created to be later used in the scoring system.
 
-What Moving Between Scenes Looks Like
+What Moving Between Scenes Looks Like<br />
 ![](https://github.com/GWJonesss/Missile-Command-Remake/blob/main/README-ASSETS/SceneSwap.gif)
 
 
@@ -13,7 +13,7 @@ What Moving Between Scenes Looks Like
 ## Player Aim, Shoot, Reload, and Menu Fuctionality 
 Player Aim And Shoot Fuctionality is controlled through the Mouse axis and Left Button inputs. Scripts are included to prevent the player being able to shoot once their alotted ammo ammount. If a players score exceeds 100, the are presented with a message and functionality to press the 'R' key to buy 10 extra ammo at the cost of 100 points being subtracted from their overall score. While in the 'Game' scene, at any point, the players has the option to press the 'M' key to pause the game and have the option to quit, go back to the starting menu, or adjust the volume of the music and effects.
 
-Pulling Up The Menu In Game Looks Like This
+Pulling Up The Menu In Game Looks Like This<br />
 ![](https://github.com/GWJonesss/Missile-Command-Remake/blob/main/README-ASSETS/MenuUse.gif)
 
 
@@ -31,14 +31,15 @@ At Level 3 The Larger Missiles increase their movement speed ontop of all of the
 
 ## Score
 
-The Players Score is handeled by a piece of script in the Enemy.cs file that is connected to a variable from a gamecontroler script through a function. 
+The Players Score is handled by a piece of script in the Enemy.cs file that is connected to a variable from a gamecontroler script through a function. 
 
-Seen Here
+Seen Here<br />
+![](https://github.com/GWJonesss/Missile-Command-Remake/blob/main/README-ASSETS/MenuUse.gif)
 
 
 The score text at the top updates based on every use of the AddMissileDestDestroyedScore() fuction.
 The Building game objects, if hit by an enemy missile, will be destroyed and will update the 
-Buildings Destroyed Text with a similar pice of code conecting all of the involved game objects and text.
+Buildings Destroyed Text with a similar piece of code connecting all of the involved game objects and text.
 
 
 ## Win/Loose win condition
