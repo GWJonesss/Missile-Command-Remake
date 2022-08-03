@@ -5,7 +5,7 @@ For My First Live Project While Attending The Tech Academy I Created A Missile C
 ## Missile Command Scenes and Game Objects
 First part of the project was creating the screens for Missile Command. Each were made within Unity, and movement between them was controlled by using buttons that had an attached script to load the correct scene. Along with the base scenes, Building Game Objects were created to be later used in the scoring system.
 
-What Moving Between Scenes Looks Like<br />
+*What Moving Between Scenes Looks Like<br />
 ![](https://github.com/GWJonesss/Missile-Command-Remake/blob/main/README-ASSETS/SceneSwap.gif)
 
 
@@ -23,8 +23,8 @@ A script attached to an "Enemy Spawner" game object instantiates Enemy Missiles 
 Once The Player reaches level 2 the scrip introduces a new option for the enemy missile to destroy itself and spawn 4 smaller missiles that all follow 
 the random number target selection the larger enemy missile had.
 
-That Occurance Looks Like This
-
+That Occurance Looks Like This<br />
+![](https://github.com/GWJonesss/Missile-Command-Remake/blob/main/README-ASSETS/ScoreScript.png)
 
 At Level 3 The Larger Missiles increase their movement speed ontop of all of the previous adjustments. 
 
