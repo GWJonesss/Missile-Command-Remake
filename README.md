@@ -51,5 +51,4 @@ A Loose condition is met if all 6 buildings are destroyed by enemy missile colli
 Both conditions send you to a Game Over Screen and alow you to view your total Score.
 
 *Example "Game Over" screen:*<br />
-
 ![](https://github.com/GWJonesss/Missile-Command-Remake/blob/main/README-ASSETS/GameOver.gif)
