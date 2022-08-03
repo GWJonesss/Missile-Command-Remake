@@ -34,7 +34,7 @@ At Level 3 The Larger Missiles increase their movement speed ontop of all of the
 The Players Score is handled by a piece of script in the Enemy.cs file that is connected to a variable from a gamecontroler script through a function. 
 
 Seen Here<br />
-![](https://github.com/GWJonesss/Missile-Command-Remake/blob/main/README-ASSETS/MenuUse.gif)
+![](https://github.com/GWJonesss/Missile-Command-Remake/blob/main/README-ASSETS/ScoreScript.png)
 
 
 The score text at the top updates based on every use of the AddMissileDestDestroyedScore() fuction.
