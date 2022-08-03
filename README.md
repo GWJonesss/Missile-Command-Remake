@@ -5,7 +5,7 @@ For My First Live Project While Attending The Tech Academy I Created A Missile C
 ## Missile Command Scenes and Game Objects
 First part of the project was creating the screens for Missile Command. Each were made within Unity, and movement between them was controlled by using buttons that had an attached script to load the correct scene. Along with the base scenes, Building Game Objects were created to be later used in the scoring system.
 
-*What Moving Between Scenes Looks Like<br />
+*What Moving Between Scenes Looks Like*<br />
 ![](https://github.com/GWJonesss/Missile-Command-Remake/blob/main/README-ASSETS/SceneSwap.gif)
 
 
